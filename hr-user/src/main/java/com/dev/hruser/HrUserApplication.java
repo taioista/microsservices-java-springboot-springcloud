@@ -1,4 +1,4 @@
-package com.dev.hroauth.hroauth;
+package com.dev.hruser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +6,10 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @EnableEurekaClient
 @SpringBootApplication
-public class HrOauthApplication {
+public class HrUserApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HrOauthApplication.class, args);
+		SpringApplication.run(HrUserApplication.class, args);
 	}
+
 }

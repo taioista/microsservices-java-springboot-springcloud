@@ -1,4 +1,4 @@
-package com.dev.hrconfigserver.hrconfigserver;
+package com.dev.hrconfigserver;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;

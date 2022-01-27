@@ -1,6 +1,6 @@
-package com.dev.hruser.hruser.repositories;
+package com.dev.hruser.repositories;
 
-import com.dev.hruser.hruser.entities.User;
+import com.dev.hruser.entities.User;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
